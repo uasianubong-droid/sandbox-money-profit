@@ -47,7 +47,7 @@
     "date-fns": "^3.0.0",
     "i18next": "^26.3.6",
     "lucide-react": "^0.400.0",
-    "next": "16.3.5",
+    "next": "16.3.8",
     "next-themes": "^0.2.1",
     "react": "^19.2.8",
     "react-day-picker": "^9.0.0",
@@ -58,7 +58,7 @@
     "sonner": "^1.7.0",
     "tailwind-merge": "^2.6.1",
     "tailwindcss-animate": "^1.0.7",
-    "undici": "7.29.0",
+    "undici": "7.29.1",
     "uuid": "11.1.1",
     "vaul": "^1.1.1",
     "@deriv-com/smartcharts-champion": "1.10.8"
